@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Resume</title>
+</head>
+
+<body>
+    <div id="resume">
+        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/james-moriarty.jpg" alt="James Moriarty">
+        <h1>Grace Wolter</h1>
+        <p>Cell: <a href=#>812-313-5505</a>
+        <p>Web: <a href=#>https://www.instagram.com/gracewxlter/</a>
+        <p>Email: <a href=#>grwolter@iu.edu</a>
+        <p id="objective">I am an ambitious, young student at Indiana University East. I work part-time between classes and I am 
+currently working towards my bachelor's of science degree in Communications. I live in Bloomington Indiana with my boyfriend and our cat.
+I work best in fast-paced environments and with a to-do list. I am a good problem solver and intuitive. My goal is to work at a public
+relations office after graduation.
+        <dl>
+            <dt>Education
+            <dd>
+                <h2>Indiana University East</h2>
+                <p><strong>Major:</strong>Communications<br />
+                </p>
+        </dl>
+        <dl>
+            <dt>Skills
+            <dd>
+                <h2>Skills</h2>
+                <p>Customer service, basic computer skills, event organization
+        </dl>
+        <dl>
+            <dt>Experience
+            <dd>
+                <h2>Adidas Team Member<span>Columbus, Indiana 2022-2024</span></h2>
+                <ul>
+                    <li>Cashier
+                    <li>Customer Service
+                </ul>
+                <h2>Target Team Member<span>Bloomington, Indiana 2023-Present</span></h2>
+                <ul>
+                    <li>Customer Service
+                    <li>Merchandiser
+                </ul>
+        </dl>
+    </div>
+</body>
+
+</html>
