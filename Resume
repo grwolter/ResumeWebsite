@@ -1,17 +1,15 @@
 <!DOCTYPE html>
-
+<html lang="en">
 <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
     <title>Resume</title>
-
 </head>
-
 <body>
     <div id="resume">
-        <h1>Grace Wolter</h1>
+       <h1>Grace Wolter</h1>
         <p>Cell: <a href=#>812-313-5505</a>
         <p>Web: <a href=#>https://www.instagram.com/gracewxlter/</a>
         <p>Email: <a href=#>grwolter@iu.edu</a>
@@ -45,8 +43,16 @@ relations office after graduation.
                     <li>Customer Service
                     <li>Merchandiser
                 </ul>
+            </dd>
+        </dl>
+        <dl>
+            <dt>Hobbies
+            <dd>Cooking, reading, painting
+        </dl>
+        <dl>
+            <dt>References
+            <dd>Available on request
         </dl>
     </div>
 </body>
-
 </html>
